@@ -29,9 +29,12 @@ h1 span{
 }
 .half-width img{
     width: 160%;
-    margin-top: -20%;
-    margin-left: -25%;
+    margin-top: -15%;
+    margin-left: -35%;
 
+}
+.img1{
+    margin-left: 5%;
 }
 
 .ancore-button{
@@ -42,6 +45,23 @@ h1 span{
     color: white;
     font-weight: 700;
     
+}
+
+p{
+    width: 500px;
+    color: dimgray;
+    text-align: justify;
+}
+
+.dream-aria{
+    background-image: url(image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-top: -10%;
+
+}
+h2{
+    font-size: 40px;
 }
 
 
